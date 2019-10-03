@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS中文乱码修复1", "VS中文乱码修复1\VS中文乱码修复1.csproj", "{0195ED68-7FEC-4758-9CED-C72CCE865146}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS Chinese Codec fix1", "VS中文乱码修复1\VS Chinese Codec fix1.csproj", "{0195ED68-7FEC-4758-9CED-C72CCE865146}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

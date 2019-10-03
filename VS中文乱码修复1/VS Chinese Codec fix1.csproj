@@ -7,7 +7,7 @@
     <ProjectGuid>{0195ED68-7FEC-4758-9CED-C72CCE865146}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>VS中文乱码修复1</RootNamespace>
-    <AssemblyName>VS中文乱码修复1</AssemblyName>
+    <AssemblyName>VS Chinese Codec Fix1</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
